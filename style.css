@@ -1,0 +1,61 @@
+.all{
+     
+    width: 100%;
+    height: 250px;
+    border-style: solid;
+  background-image: url("school.jpg");
+   
+  ))
+    
+}
+
+.navbox{
+         widht:100%;
+         border-style: solid;
+         background: red;
+        height:40px;
+        margin-top: 15.1%;
+    }
+.name{
+        font-size: 1.1em;
+    font-family: -webkit-body;
+    margin-top: 11.89px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+img{
+         width: 50%;
+           height: 50%;
+                 
+}
+.image{
+          position: absolute;
+        top: 118px;
+    left: 321px;
+}
+
+
+.menu{
+        margin-top:-3.5%;
+        margin-left:30%;
+}
+
+ .menu-style{
+    display:inline;
+    font-family: -webkit-body;
+    font-size: 20px;
+    padding:20px;
+    
+    
+    
+}
+.content1{
+    text-align: center;
+}
+.psize{
+    font-size: 1.5em;
+    
+    
+}
